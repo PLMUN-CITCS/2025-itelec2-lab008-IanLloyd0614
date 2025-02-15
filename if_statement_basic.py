@@ -9,5 +9,5 @@ def main():
     if temperature > 30:
         print("It's a hot day!")  # Indented 4 spaces
 
-    if __name__ == "__main__":
+if __name__ == "__main__":
     main()
